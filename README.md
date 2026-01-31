@@ -22,4 +22,3 @@ A modern, responsive personal portfolio website showcasing my skills, projects, 
 
 ---
 
-## 📂 Project Structure
